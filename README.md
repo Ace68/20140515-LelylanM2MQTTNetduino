@@ -1,5 +1,5 @@
 20140515-LelylanM2MMQTTNetduino
 =============================
 
-Implementazione di un piccolo esempio di utilizzo della piattaforma Lelylan tramite M2MQTT (.NET Client)
-per collegare i dispositivi della propria casa alla rete.
+Implementing a small example of how use Lelylan through M2MQTT(.NET Client) 
+to connect your home's devices to internet.

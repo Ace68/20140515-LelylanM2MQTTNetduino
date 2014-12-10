@@ -1,15 +1,12 @@
-
-using uPLibrary.Networking.M2Mqtt.Messages;
-
 namespace LelylanNetduinoLight.Core
 {
     public static class LelylanCore
     {
         /* Device Credentials */
         /* set your device id (will be the MQTT client username) */
-        public const string DeviceId = "536a38e011cd8039f5000002";
+        public const string DeviceId = "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY";
         /* set your device secret (will be the MQTT client password) */
-        public const string DeviceSecret = "40858354ddc20d810b0c760896e68d1ec2c77b3882dd3404b8a06dd498238581";
+        public const string DeviceSecret = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
 
         /* Sample payload published to lelylan */
         /* Status-id is the basic light status id (http://types.lelylan.com/types/518be107ef539711af000001) */
